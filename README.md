@@ -1,12 +1,16 @@
-- Hi there! 👋 I'm Nagavardhan
+ Hi there! 👋 I'm Nagavardhan
+ 
 Welcome to my GitHub profile! I'm a Third-year college student passionate about development(Web & Android). I'm dedicated, and optimistic towards learning and growth. With excellent communication skills, I enjoy collaborating with others to create meaningful projects.
 
 About Me
+
 🎓Currently pursuing my degree in CMR Techniacal Campus(Hyderabad).
 💻 Web Development and Comptetive Programming Enthusiast.
 🌟 Optimistic & Hardworking.
 📚 Always eager to explore new technologies and improve my skills in development and DSA (Currently Learning).
+
 Skills
+
 HTML
 CSS
 JavaScript
