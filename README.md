@@ -15,10 +15,15 @@ About Me
 Skills
 
 HTML
+
 CSS
+
 JavaScript
+
 React
+
 Java
+
 DSA
 
 Get in Touch
@@ -26,7 +31,9 @@ Get in Touch
 Feel free to connect with me! Whether it's discussing development projects, sharing learning resources, or just saying hello, I'd love to hear from you.
 
 📧 Email: nagukasthuri81@gmail.com
+
 💼 LinkedIn:https://www.linkedin.com/in/nagavardhan-kasthuri-32b975257/
+
 🌐 Portfolio: working on it (Will be availble shortly)
 
 
