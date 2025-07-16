@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Third-year college student passionate about 
 
 About Me
 
-🎓Currently pursuing my degree in CMR Techniacal Campus(Hyderabad).
+🎓Currently pursuing my degree in CMR Technical Campus(Hyderabad).
 
-💻 Web Development and Comptetive Programming Enthusiast.
+💻 Web Development and Competitive Programming Enthusiast.
 
 🌟 Optimistic & Hardworking.
 
