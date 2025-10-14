@@ -1,6 +1,6 @@
  Hi there! 👋 I'm Nagavardhan
  
-Welcome to my GitHub profile! I'm a Third-year college student passionate about development(Web & Android). I'm dedicated, and optimistic towards learning and growth. With excellent communication skills, I enjoy collaborating with others to create meaningful projects.
+Welcome to my GitHub profile! I'm a Final-year college student passionate about development and learning new technologies. I'm dedicated, and optimistic towards learning and growth. With excellent communication skills, I enjoy collaborating with others to create meaningful projects.
 
 About Me
 
@@ -19,8 +19,6 @@ HTML
 CSS
 
 JavaScript
-
-React
 
 Java
 
